@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "switchLock_gbrs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
