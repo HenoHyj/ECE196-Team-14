@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
-%TF.CreationDate,2024-11-11T00:13:19-08:00*%
+%TF.CreationDate,2024-11-11T01:16:09-08:00*%
 %TF.ProjectId,Switch Lock,53776974-6368-4204-9c6f-636b2e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.5) date 2024-11-11 00:13:19*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-11-11 01:16:09*
 %MOMM*%
 %LPD*%
 G01*
@@ -33,6 +33,11 @@ X110470000Y-79690000D03*
 X93490000Y-79728250D03*
 X100290000Y-79728250D03*
 %TD*%
+D10*
+%TO.C,REF\u002A\u002A*%
+X96490000Y-60220000D03*
+%TD*%
+D11*
 %TO.C,S4*%
 X123800000Y-79638250D03*
 X130600000Y-79638250D03*
@@ -52,9 +57,5 @@ D11*
 %TO.C,S3*%
 X113750000Y-79620000D03*
 X120550000Y-79620000D03*
-%TD*%
-D10*
-%TO.C,REF\u002A\u002A*%
-X96490000Y-60220000D03*
 %TD*%
 M02*
